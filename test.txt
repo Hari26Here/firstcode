@@ -1,2 +1,4 @@
 test
 new test
+added new file
+new lines added
